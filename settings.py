@@ -1,0 +1,6 @@
+IMAGES = "charts/"
+SOURCE = "resources/"
+
+
+
+
